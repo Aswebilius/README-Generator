@@ -1,0 +1,22 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aswebilius/Professional-README-Generator-With-Node.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aswebilius/Professional-README-Generator-With-Node.js/issues"
+  },
+  "homepage": "https://github.com/Aswebilius/Professional-README-Generator-With-Node.js#readme"
+}
