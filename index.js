@@ -12,12 +12,12 @@ const questions = [{
 {
     type:  'input',
     name: 'describe',
-    message: 'How do you Describe your of your Project?'
+    message: 'How do you Describe your Project?'
 },
 {
     type:  'input',
     name: 'installation',
-    message: 'How do you Install of your Application?'
+    message: 'How do you Install your Application?'
 },
 {
     type:  'input',
@@ -27,8 +27,8 @@ const questions = [{
 {
     type:  'checkbox',
     name: 'license',
-    message: 'What License do you have on your Application?',
-    choices: ['Eclipse', 'Apache', 'GNU', 'MIT', ' ']
+    message: 'What License do you have on your Application? If you do not have one just hit ENTER.',
+    choices: ['Eclipse', 'Apache', 'GNU', 'MIT']
 },
 {
     type:  'input',
